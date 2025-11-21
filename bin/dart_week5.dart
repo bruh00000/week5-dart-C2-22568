@@ -1,5 +1,6 @@
-import 'package:dart_week5/function_call.dart';
+import 'package:dart_week5/function_return.dart';
 
 void main(){
-  printName();
+  callFunction();
+  //printName();
 }
